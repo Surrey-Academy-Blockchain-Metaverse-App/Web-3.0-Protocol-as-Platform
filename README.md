@@ -1,8 +1,12 @@
+![SABMA_logo](https://github.com/user-attachments/assets/da292ef3-6955-44f1-8da3-0371ba95b67f)
+
 # Web 3.0 Protocol-as-Platform: Vision and Framework for Decentralized Agentic Super Intelligence
 
-Authors: Yu Xiong, Amit Kumar Jaiswal, Tao Tang, Qianzhou Zuo, Oliver Venables.
+Authors: [Yu Xiong](https://www.surrey.ac.uk/people/yu-xiong), [Amit Kumar Jaiswal](https://www.surrey.ac.uk/people/amit-kumar-jaiswal), [Tao Tang](https://sites.google.com/view/tao-tang/home), [Qianzhou Zuo](https://www.surrey.ac.uk/people/qianzhou-zuo), Oliver Venables.
 
 Institution: Surrey Academy of Blockchain and Metaverse Applications, Surrey Business School, University of Surrey, Guildford, United Kingdom
+
+[Institution Webpage](https://www.surrey.ac.uk/academy-for-blockchain-and-metaverse-applications)
 
 ## Abstract:
 
