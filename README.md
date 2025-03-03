@@ -2,7 +2,7 @@
 
 # Web 3.0 Protocol-as-Platform: Vision and Framework for Decentralized Agentic Super Intelligence
 
-Authors: [Yu Xiong](https://www.surrey.ac.uk/people/yu-xiong), [Amit Kumar Jaiswal](https://www.surrey.ac.uk/people/amit-kumar-jaiswal), [Tao Tang](https://sites.google.com/view/tao-tang/home), [Qianzhou Zuo](https://www.surrey.ac.uk/people/qianzhou-zuo), Oliver Venables.
+Authors: [Yu Xiong](https://www.surrey.ac.uk/people/yu-xiong), [Amit Kumar Jaiswal](https://www.surrey.ac.uk/people/amit-kumar-jaiswal), [Tao Tang](https://sites.google.com/view/tao-tang/home), [Qianzhou Zuo](https://www.surrey.ac.uk/people/qianzhou-zuo), Oliver Venables, Ka Chun Lai.
 
 Institution: Surrey Academy of Blockchain and Metaverse Applications, Surrey Business School, University of Surrey, Guildford, United Kingdom
 
